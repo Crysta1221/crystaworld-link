@@ -3,7 +3,12 @@
 @tailwind utilities;
 
 body {
+  overflow-x: hidden;
   @apply dark:bg-gray-900 dark:text-gray-200;
+}
+
+html {
+  overflow-x: hidden;
 }
 
 * {
