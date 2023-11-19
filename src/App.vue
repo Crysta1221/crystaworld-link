@@ -2,7 +2,7 @@
 <div class="bg-green-50 p-8 sm:p-16 min-h-screen">
   <div class="flex flex-col sm:flex-row">
     <div class="sm:w-2/5 lg:w-1/3">
-      <img src="https://avatars.githubusercontent.com/u/70198466?v=4" class="h-32 w-32 rounded-full mx-auto" />
+      <img src="/crysta.png" class="h-32 w-32 rounded-full mx-auto" alt="Crysta1221" />
       <h1 class="font-bold text-3xl text-center my-6">
         Crysta1221
       </h1>
@@ -225,7 +225,7 @@
             <div class="bg-gray-200 hover:bg-zinc-200 shadow-lg rounded-lg">
             <div class="px-4 py-4">
               <div class="w-12 h-12 rounded-lg shadow-sm border border-zinc-200 mb-2 grorup-hover:-translate-y-0.5 duration-200 hover:-translate-y-px mr-3 flex items-center justify-center" style="background-color: rgb(255,255,255);">
-                <img src="/tatami.png" class="p-1.5 text-4xl text-white" width="46" height="46"/>
+                <img src="/tatami.png" class="p-1.5 text-4xl text-white" width="46" height="46" alt="Tatami Server"/>
               </div>
             </div>
             <div class="p-4 -mt-8">
