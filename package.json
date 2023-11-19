@@ -1,0 +1,23 @@
+{
+  "name": "web-link",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/zen-kaku-gothic-new": "^5.0.16",
+    "@iconify/vue": "^4.1.1",
+    "autoprefixer": "^10.4.16",
+    "sass": "^1.69.5",
+    "tailwindcss": "^3.3.5",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
