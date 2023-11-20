@@ -7,7 +7,7 @@
         Crysta1221
       </h1>
       <p class="text-lg mt-4 -mb-0.5 font-semibold text-center my-6"><span class="under">&ensp;About&ensp;</span></p>
-      <p class="text-center text-base">
+      <p class="text-center text-base mt-4">
         よわよわなフロントエンドエンジニア
       </p>
       <p class="text-lg mt-4 -mb-0.5 font-semibold text-center my-6"><span class="under">&ensp;Skill&ensp;</span></p>
