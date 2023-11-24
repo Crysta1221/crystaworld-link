@@ -218,7 +218,7 @@
         </div>
       </div>
       <!-- Second Section -->
-      <p class="text-2xl font-bold mt-2">💼 Working</p>  
+      <p class="text-2xl font-bold mt-2">🤖 Working</p>  
       <div class="flex sm:flex-row flex-col flex-wrap justify-start">
         <div class="w-full sm:w-1/2 lg:w-1/3 p-4">
           <a href="https://tatamiserver.com" target="_blank">
